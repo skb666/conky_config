@@ -1,0 +1,13 @@
+[Desktop Entry]
+Comment[en_US]=
+Exec=conky
+Hidden=false
+Icon=conky
+Name=conky
+Name[en_US]=start-conky
+NoDisplay=false
+Type=Application
+X-Deepin-Vendor=user-custom
+X-GNOME-Autostart-Delay=0
+X-GNOME-Autostart-enabled=true
+X-MATE-Autostart-enabled=true
